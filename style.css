@@ -6,7 +6,7 @@
 
   --accent-dark: hsl(218, 44%, 22%);
   --accent-light: hsl(0, 0%, 100%);
-  --accent-secondary-dark: ;
+  --accent-secondary-dark: hsl(220, 15%, 55%);
   --accent-secondary-light: hsl(212, 45%, 89%);
 
   --fw-bold: 700;
